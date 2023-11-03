@@ -1,0 +1,61 @@
+.ej1 {
+    background-image: url(img/patron.png);
+    background-repeat: repeat;
+}
+ 
+.ej2 {
+    background-image: url(img/patron.png);
+    background-repeat: repeat-y;
+}
+
+.ej3 {
+    background-image: url(img/mery.png);
+    background-attachment: fixed;
+}
+
+.header {
+    color: aquamarine
+}
+
+.main {
+    color: brown;
+}
+
+.footer {
+    color: rgb(53, 122, 182)
+}
+
+.par  {
+    color: red;
+}
+
+.especial {
+    color: green;
+
+}
+
+
+.header1 {
+    background-color: rgb(181, 212, 69);
+}
+
+.main1 {
+    background-color: rgb(189, 189, 88);
+}
+
+.footer1 {
+    color: brown;
+}
+
+.header2 {
+    background-color: rgb(69, 136, 212);
+}
+
+.main2 {
+    background-color: rgb(158, 41, 158);
+}
+
+.footer2 {
+    color: rgb(141, 92, 106);
+}
+
